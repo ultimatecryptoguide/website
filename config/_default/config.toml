@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://ultimatecryptoguide.github.io/website/"
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
